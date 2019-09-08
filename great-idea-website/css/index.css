@@ -64,3 +64,123 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+body{
+	margin: 40px;
+}
+.navbar{
+	text-align: left;
+	padding-bottom: 60px;
+}
+.navbar a{
+	display: inline-block;
+	padding-left: 40px;
+	padding-right: 60px;
+	justify-content: space-evenly;
+}
+.logo{
+	display: inline-block;
+	float: top;
+	padding-left: 90px;
+
+}
+.content_1{
+
+	width: 100%;
+}
+.innovate{
+	display: inline-block;
+	float: left;
+	margin-top: 5%;
+	margin-right: -5%;
+	margin-left: 7%;
+	width: 50%;
+	text-align: center;
+	font-size: 65px;
+}
+.content_1_box{
+	display: inline-block;
+	padding-top: 10px;
+	margin-left: -12%;
+	float: left;
+	width: 50%;
+	text-align: center;
+	font-size: 70px;
+}
+#started{
+	padding-top: 10px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	background-color: whitesmoke;
+}
+p{
+	font-size: inherit;
+}
+.overview{
+	width: 100%;
+	margin: 1%;
+	
+}
+#features{
+	display: inline-block;
+    min-height: 100px;
+    margin: 1%;
+	width: 47%;
+	/* margin-left: auto;
+	margin-right: auto;
+	 */
+	 margin-bottom: 30px;
+}
+#about{
+	display: inline-block;
+    min-height: 100px;
+    margin: 1%;
+	width: 47%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	 
+}
+.center{
+	display: block;
+	width: 1500px;
+	height: 200px;
+	margin-bottom: 30px;
+}
+.middle-img{
+	position: relative;
+	max-width: 100%;
+	max-height: auto;
+	
+}
+#services{
+	 display: inline-block;
+	 float:left;   
+     width:33.33%; 
+	 height:250px;
+	 
+}
+#product{
+	display: inline-block;
+	float:left; 
+	width:33.33%; 
+    height:250px;
+
+}
+#vision{
+	 float:left;  
+     width:33.33%; 
+     height:250px;
+
+}
+address{
+	display: block;
+	
+}
+#info{
+	line-height: 0.80em;
+}
+.copyright{
+	text-align: center;
+}
+

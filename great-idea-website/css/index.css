@@ -68,10 +68,11 @@ body{
 	margin: 40px;
 }
 .navbar{
+	display: flex;
 	text-align: left;
 	padding-bottom: 60px;
 }
-.navbar a{
+.navbar p{
 	display: inline-block;
 	padding-left: 40px;
 	padding-right: 60px;
